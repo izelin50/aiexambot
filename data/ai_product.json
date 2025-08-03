@@ -1,0 +1,1787 @@
+{
+  "props": {
+    "pageProps": {
+      "examDates": [
+        "2025-08-05T11:00:00+03:00",
+        "2025-08-12T11:00:00+03:00",
+        "2025-08-15T11:00:00+03:00",
+        "2025-08-18T11:00:00+03:00",
+        "2025-08-27T11:00:00+03:00"
+      ],
+      "apiProgram": {
+        "id": 10130,
+        "title": "Управление ИИ-продуктами/AI Product",
+        "directions": [
+          {
+            "id": null,
+            "type": null,
+            "disciplines": [
+              {
+                "year": null,
+                "stack": 1,
+                "priority": 1,
+                "min_score": 0,
+                "discipline": {
+                  "id": 181,
+                  "title": "Вступительный экзамен",
+                  "short_title": "ВЭ",
+                  "link": "https://abit.itmo.ru/page/96/",
+                  "description": "Вступительные экзамены проходят в дистанционном формате и оцениваются по 100-балльной шкале. Даты проведения и перечень экзаменационных вопросов опубликованы на странице с описанием образовательной программы. Форма проведения вступительного экзамена может отличаться в зависимости от конкретной образовательной программы. Для получения допуска к экзамену необходимо подать документы на поступление через личный кабинет абитуриента",
+                  "admission_type": "university"
+                },
+                "type": "common",
+                "tracks": []
+              },
+              {
+                "year": null,
+                "stack": 1,
+                "priority": 2,
+                "min_score": 0,
+                "discipline": {
+                  "id": 195,
+                  "title": "Конкурс «Портфолио» Университета ИТМО",
+                  "short_title": "КП",
+                  "link": "https://abit.itmo.ru/page/portfolio_comp/",
+                  "description": "Если у вас есть научно-исследовательские, инженерные или междисциплинарные достижения, вы можете поступить в ИТМО без сдачи вступительного экзамена. Портфолио состоит из трех разделов: мотивационное письмо, резюме и достижения. В зависимости от специфики программы, в CV нужно добавить публикации, выступления на конференциях, сертификаты, дипломы и т. д. Каждое достижение имеет свой балл. Победителем становится конкурсант, набравший более 85 баллов",
+                  "admission_type": "university"
+                },
+                "type": "common",
+                "tracks": []
+              },
+              {
+                "year": null,
+                "stack": 1,
+                "priority": 3,
+                "min_score": 0,
+                "discipline": {
+                  "id": 151,
+                  "title": "МегаОлимпиада ИТМО",
+                  "short_title": "МегаОлимпиада ИТМО",
+                  "link": "https://mega.itmo.ru/",
+                  "description": "Если вы победитель или призер Мегаолимпиады ИТМО, найдите свое направление на сайте олимпиады и посмотрите список программ, на которые можно поступить без экзаменов. Этим правом можно воспользоваться в календарный год проведения Олимпиады или в календарный год, следующий за годом ее проведения. Поступить на следующий год можно только по программам, указанным в правилах приема года поступления.",
+                  "admission_type": "university"
+                },
+                "type": "common",
+                "tracks": []
+              },
+              {
+                "year": null,
+                "stack": 1,
+                "priority": 4,
+                "min_score": 0,
+                "discipline": {
+                  "id": 187,
+                  "title": "Мегашкола ИТМО",
+                  "short_title": "Мегашкола",
+                  "link": "https://mega.itmo.ru/megaschool",
+                  "description": "МегаШкола ИТМО – это лекции и мастер-классы по самым актуальным направлениям: искусственный интеллект, мобильная разработка, робототехника, биотехнология, технологический менеджмент и инновации, гуманитарные исследования и многие другие. Победители МегаШколы могут поступить в магистратуру без экзаменов.",
+                  "admission_type": "university"
+                },
+                "type": "common",
+                "tracks": []
+              },
+              {
+                "year": null,
+                "stack": 1,
+                "priority": 5,
+                "min_score": 0,
+                "discipline": {
+                  "id": 206,
+                  "title": "Медалист/победитель «Я-профессионал»",
+                  "short_title": "ЯП",
+                  "link": "https://abit.itmo.ru/page/174/",
+                  "description": "Медалисты и победители олимпиады «Я-профессионал» могут поступить в магистратуру без экзаменов. Информация о том, на какую программу вы можете поступить став победителем трека, указана в Правилах приема. Правом поступления можно воспользоваться в календарный год победы в олимпиаде и следующий календарный год. Поступить на следующий год можно только на программы, указанные в правилах приема в год поступления.",
+                  "admission_type": "university"
+                },
+                "type": "common",
+                "tracks": []
+              },
+              {
+                "year": null,
+                "stack": 1,
+                "priority": 6,
+                "min_score": 0,
+                "discipline": {
+                  "id": 146,
+                  "title": "Конкурс Junior ML Contest",
+                  "short_title": "JMLС",
+                  "link": "https://abit.itmo.ru/page/junior_contest/",
+                  "description": "Junior ML Contest — отличная возможность поступить на бюджетное место магистратур в области искусственного интеллекта и машинного обучения. Junior ML Contest проходит в двух направлениях. 1. Конкурс проектов. Для участия необходимо отправить свой проект — самостоятельно разработанное решение с применением технологий ML. 2. Курс My First Data Project. Пройди курс по созданию реального продукта на данных с менторской поддержкой, защити проект по итогу и поступи в магистратуру ИТМО без экзаменов.",
+                  "admission_type": "faculty"
+                },
+                "type": "common",
+                "tracks": []
+              },
+              {
+                "year": null,
+                "stack": 1,
+                "priority": 7,
+                "min_score": 0,
+                "discipline": {
+                  "id": 182,
+                  "title": "Рекомендательное письмо от руководителя программы",
+                  "short_title": "РОП",
+                  "link": null,
+                  "description": "Если вы вели работу с сотрудниками ИТМО, то руководитель программы магистратуры может составить письмо, в котором указывает общую характеристику способностей студента, сферу научных интересов и склонность к научной работе. Большое внимание уделяется достижениям за время учебы: выступлениям на конференциях, научным публикациям, участию в научных проектах, конкурсам, олимпиадам.",
+                  "admission_type": "university"
+                },
+                "type": "common",
+                "tracks": []
+              }
+            ],
+            "admission_quotas": {
+              "budget": 14,
+              "contract": 50,
+              "target_reception": 0,
+              "invalid": null,
+              "special_quota": 0,
+              "contract_foreign": 0,
+              "recommended_count": 14
+            },
+            "title": "Математическое обеспечение и администрирование информационных систем",
+            "code": "02.04.03",
+            "competitive_group": {
+              "id": 2316,
+              "degree": "master",
+              "study_form": "internal",
+              "title": "Управление ИИ-продуктами / AI Product",
+              "budget_min": null,
+              "contract": null,
+              "year": 2025,
+              "target_reception": null,
+              "invalid": null,
+              "special": null,
+              "pass_score": null,
+              "average_score": null,
+              "contract_foreign": null,
+              "admission_quotas": null,
+              "disciplines": [
+                {
+                  "year": null,
+                  "stack": 1,
+                  "priority": 1,
+                  "min_score": 0,
+                  "discipline": {
+                    "id": 181,
+                    "title": "Вступительный экзамен",
+                    "short_title": "ВЭ",
+                    "link": "https://abit.itmo.ru/page/96/",
+                    "description": "Вступительные экзамены проходят в дистанционном формате и оцениваются по 100-балльной шкале. Даты проведения и перечень экзаменационных вопросов опубликованы на странице с описанием образовательной программы. Форма проведения вступительного экзамена может отличаться в зависимости от конкретной образовательной программы. Для получения допуска к экзамену необходимо подать документы на поступление через личный кабинет абитуриента",
+                    "admission_type": "university"
+                  },
+                  "type": "common",
+                  "tracks": []
+                },
+                {
+                  "year": null,
+                  "stack": 1,
+                  "priority": 2,
+                  "min_score": 0,
+                  "discipline": {
+                    "id": 195,
+                    "title": "Конкурс «Портфолио» Университета ИТМО",
+                    "short_title": "КП",
+                    "link": "https://abit.itmo.ru/page/portfolio_comp/",
+                    "description": "Если у вас есть научно-исследовательские, инженерные или междисциплинарные достижения, вы можете поступить в ИТМО без сдачи вступительного экзамена. Портфолио состоит из трех разделов: мотивационное письмо, резюме и достижения. В зависимости от специфики программы, в CV нужно добавить публикации, выступления на конференциях, сертификаты, дипломы и т. д. Каждое достижение имеет свой балл. Победителем становится конкурсант, набравший более 85 баллов",
+                    "admission_type": "university"
+                  },
+                  "type": "common",
+                  "tracks": []
+                },
+                {
+                  "year": null,
+                  "stack": 1,
+                  "priority": 3,
+                  "min_score": 0,
+                  "discipline": {
+                    "id": 151,
+                    "title": "МегаОлимпиада ИТМО",
+                    "short_title": "МегаОлимпиада ИТМО",
+                    "link": "https://mega.itmo.ru/",
+                    "description": "Если вы победитель или призер Мегаолимпиады ИТМО, найдите свое направление на сайте олимпиады и посмотрите список программ, на которые можно поступить без экзаменов. Этим правом можно воспользоваться в календарный год проведения Олимпиады или в календарный год, следующий за годом ее проведения. Поступить на следующий год можно только по программам, указанным в правилах приема года поступления.",
+                    "admission_type": "university"
+                  },
+                  "type": "common",
+                  "tracks": []
+                },
+                {
+                  "year": null,
+                  "stack": 1,
+                  "priority": 4,
+                  "min_score": 0,
+                  "discipline": {
+                    "id": 187,
+                    "title": "Мегашкола ИТМО",
+                    "short_title": "Мегашкола",
+                    "link": "https://mega.itmo.ru/megaschool",
+                    "description": "МегаШкола ИТМО – это лекции и мастер-классы по самым актуальным направлениям: искусственный интеллект, мобильная разработка, робототехника, биотехнология, технологический менеджмент и инновации, гуманитарные исследования и многие другие. Победители МегаШколы могут поступить в магистратуру без экзаменов.",
+                    "admission_type": "university"
+                  },
+                  "type": "common",
+                  "tracks": []
+                },
+                {
+                  "year": null,
+                  "stack": 1,
+                  "priority": 5,
+                  "min_score": 0,
+                  "discipline": {
+                    "id": 206,
+                    "title": "Медалист/победитель «Я-профессионал»",
+                    "short_title": "ЯП",
+                    "link": "https://abit.itmo.ru/page/174/",
+                    "description": "Медалисты и победители олимпиады «Я-профессионал» могут поступить в магистратуру без экзаменов. Информация о том, на какую программу вы можете поступить став победителем трека, указана в Правилах приема. Правом поступления можно воспользоваться в календарный год победы в олимпиаде и следующий календарный год. Поступить на следующий год можно только на программы, указанные в правилах приема в год поступления.",
+                    "admission_type": "university"
+                  },
+                  "type": "common",
+                  "tracks": []
+                },
+                {
+                  "year": null,
+                  "stack": 1,
+                  "priority": 6,
+                  "min_score": 0,
+                  "discipline": {
+                    "id": 146,
+                    "title": "Конкурс Junior ML Contest",
+                    "short_title": "JMLС",
+                    "link": "https://abit.itmo.ru/page/junior_contest/",
+                    "description": "Junior ML Contest — отличная возможность поступить на бюджетное место магистратур в области искусственного интеллекта и машинного обучения. Junior ML Contest проходит в двух направлениях. 1. Конкурс проектов. Для участия необходимо отправить свой проект — самостоятельно разработанное решение с применением технологий ML. 2. Курс My First Data Project. Пройди курс по созданию реального продукта на данных с менторской поддержкой, защити проект по итогу и поступи в магистратуру ИТМО без экзаменов.",
+                    "admission_type": "faculty"
+                  },
+                  "type": "common",
+                  "tracks": []
+                },
+                {
+                  "year": null,
+                  "stack": 1,
+                  "priority": 7,
+                  "min_score": 0,
+                  "discipline": {
+                    "id": 182,
+                    "title": "Рекомендательное письмо от руководителя программы",
+                    "short_title": "РОП",
+                    "link": null,
+                    "description": "Если вы вели работу с сотрудниками ИТМО, то руководитель программы магистратуры может составить письмо, в котором указывает общую характеристику способностей студента, сферу научных интересов и склонность к научной работе. Большое внимание уделяется достижениям за время учебы: выступлениям на конференциях, научным публикациям, участию в научных проектах, конкурсам, олимпиадам.",
+                    "admission_type": "university"
+                  },
+                  "type": "common",
+                  "tracks": []
+                }
+              ],
+              "direction_codes": []
+            }
+          }
+        ],
+        "supervisor": {
+          "isuId": 0,
+          "firstName": "",
+          "lastName": "",
+          "middleName": null
+        },
+        "degree": "master",
+        "language": "Русский",
+        "educationCost": {
+          "russian": 599000,
+          "foreigner": 629000,
+          "year": 2025
+        },
+        "isMilitary": true,
+        "study": {
+          "period": "2",
+          "label": "2 года",
+          "mode": "internal"
+        },
+        "faculties": [
+          {
+            "id": 106,
+            "link": "https://itmo.ru/ru/viewfaculty/123/",
+            "title": "институт прикладных компьютерных наук",
+            "degree": null,
+            "isu_id": 993
+          }
+        ],
+        "type": "СОП, Программа в сфере ИИ",
+        "disciplines": [],
+        "academic_plan": "https://api.itmo.su/constructor-ep/api/v1/static/programs/10130/plan/abit/pdf",
+        "direction_of_education": "02.04.03 Математическое обеспечение и администрирование информационных систем",
+        "direction_code": "02.04.03",
+        "slug": "ai_product",
+        "hasAccreditation": true
+      },
+      "jsonProgram": {
+        "id": 10130,
+        "supervisor": {
+          "id": 413537,
+          "phone": "7(993)639-86-77",
+          "email": "aiproduct@itmo.ru"
+        },
+        "about": {
+          "lead": "Создавайте AI-продукты и технологии, которые меняют мир.",
+          "desc": "Программа дает глубокие технические знания в области разработки систем искусственного интеллекта и навыки продуктового менеджмента. <br>Вы сможете создавать инновационные ИИ‑решения и выводить их на рынок. Широкий выбор предметов позволяет построить индивидуальную траекторию обучения и стать AI Product Manager, AI Project Manager или Product Data Analyst. Вас ждут реальные проекты для компаний уровня Альфа-Банк, очные воркшопы и онлайн-лекции. <br>Для выпускной работы вы можете выбрать проект для компании-партнера, свой AI стартап или образовательный продукт на основе искусственного интеллекта.",
+          "video": [
+            {
+              "content": "https://vk.com/video_ext.php?oid=-181507256&id=456239069&hash=841c82d3ab01f81f&hd=2",
+              "type": "vk"
+            }
+          ]
+        },
+        "career": {
+          "lead": "Выпускники программы смогут претендовать на позиции уровня Middle:<br><br>– AI Product Manager<br><br>– AI Project Manager<br><br>– AI Product Data Analyst / AI Analyst<br><br>– AI Product Lead<br><br><br>Средний доход выпускников: от 150 до 400+ тысяч рублей в месяц через 1–3 года после окончания."
+        },
+        "social": {
+          "vk": "https://vk.com/aitalenthub",
+          "site": "https://alfabank.ru/alfafuture/education/ma/itmo/",
+          "tg": "https://t.me/ai_product_itmo"
+        },
+        "foreign": {
+          "teamIds": [
+            332444,
+            416989,
+            369857,
+            395971,
+            304784,
+            384671,
+            448389
+          ],
+          "similarProgramsIds": []
+        },
+        "achievements": [],
+        "faq": [
+          {
+            "answer": "Да, магистрантам доступны все привилегии студента Университета ИТМО: отсрочка от армии, проживание в общежитии, льготы на проезд.",
+            "question": "Смогу ли я пользоваться льготами студентов очной формы обучения?"
+          },
+          {
+            "answer": "Очная форма обучения подразумевает, что студент должен посещать лекции, практики, промежуточную аттестацию и выпускной экзамен. В нашей магистратуре они проходят в дистанционном формате. Лично прийти в университет нужно будет только на BootCamp в первую неделю сентября. Также могут быть очные мероприятия, например хакатоны и интенсивы, присутствие на которых рекомендуемо.",
+            "question": "На сайте указано, что программа реализуется дистанционно, но форма обучения очная. Как все будет проходить?"
+          },
+          {
+            "answer": "Да, но нужно будет пройти вступительные испытания или принять участие в конкурсах на поступление без экзаменов.",
+            "question": "Можно ли поступить на программу без профильного образования?"
+          },
+          {
+            "answer": "Нет, не будет. После завершения обучения вы получите диплом государственного образца очной магистратуры с присвоением квалификации «Магистр».",
+            "question": "Будет ли мой диплом отличаться от диплома очной магистратуры ИТМО?"
+          },
+          {
+            "answer": "Тебе пригодятся базовые знания в области машинного обучения (понимание базовых алгоритмов, знакомство с обучением моделей и представление о современных трендах в ИИ) и создания цифровых продуктов (разработка SaaS-решений, мобильных приложений или веб-сервисов, понимание жизненного цикла продукта и ключевых продуктовых метрик). Желательно иметь базовые навыки работы с данными и аналитикой, понимание принципов UX/UI и опыт взаимодействия с разработчиками",
+            "question": "Какой уровень технических знаний нужен для поступления?"
+          },
+          {
+            "answer": "Вы можете выбрать форму выпускной квалификационной работы самостоятельно.",
+            "question": "Как будет проходить работа над магистерской диссертацией?"
+          }
+        ],
+        "comments": [],
+        "careersImages": [
+          "partners/banking/alphabank.png"
+        ],
+        "partnersImages": [
+          "partners/banking/alphabank.png",
+          "partners/universities-courses/alfafuture.png"
+        ],
+        "extraScholarShip": [],
+        "minScore": [],
+        "lastYear": [
+          {
+            "exam": "Конкурс «Портфолио» Университета ИТМО, Конкурс Junior ML Contest, Мегаолимпиада (победитель), Мегаолимпиада (призер), Мегашкола, Япрофессионал (победитель), Я-профессионал (медалист)",
+            "hint": "Конкурс «Портфолио» Университета ИТМО, Конкурс Junior ML Contest, Мегаолимпиада (победитель), Мегаолимпиада (призер), Мегашкола, Япрофессионал (победитель), Я-профессионал (медалист)",
+            "group": "02.04.03 Математическое обеспечение и администрирование информационных систем",
+            "average": 75,
+            "pass_score": 75
+          }
+        ],
+        "premaster": [],
+        "specialPartner": [],
+        "faculty": {
+          "departmentLink": null,
+          "department": null
+        }
+      },
+      "supervisor": {
+        "firstName": "Регина",
+        "lastName": "Абдрашитова",
+        "middleName": "Ильдаровна",
+        "photo": "https://photo.itmo.su/avatar/14449270-1594-4ea8-95e6-3f4f5c3e043f/",
+        "rank": null,
+        "degree": null,
+        "positions": [
+          {
+            "department_name": "факультет технологического менеджмента и инноваций",
+            "department_link": "https://isu.ifmo.ru/pls/apex/f?p=2143:DEP:::NO::BUN_BUN_ID,STR_STR_ID,UBU_UBU_ID:90445,1,",
+            "position_name": "специалист по учебно-методической работе"
+          },
+          {
+            "department_name": "институт прикладных компьютерных наук",
+            "department_link": "https://isu.ifmo.ru/pls/apex/f?p=2143:DEP:::NO::BUN_BUN_ID,STR_STR_ID,UBU_UBU_ID:111773,1,",
+            "position_name": "специалист по учебно-методической работе"
+          }
+        ]
+      },
+      "similarPrograms": [],
+      "team": [
+        {
+          "firstName": "Владислав",
+          "lastName": "Горбунов",
+          "middleName": "Игоревич",
+          "photo": "https://photo.itmo.su/avatar/e4608cca-75b6-4e15-885c-92d294f3b900/",
+          "rank": null,
+          "degree": null,
+          "positions": [
+            {
+              "department_name": "институт прикладных компьютерных наук",
+              "department_link": "https://isu.ifmo.ru/pls/apex/f?p=2143:DEP:::NO::BUN_BUN_ID,STR_STR_ID,UBU_UBU_ID:111773,1,",
+              "position_name": "старший преподаватель (квалификационная категория \"старший преподаватель\")"
+            }
+          ]
+        },
+        {
+          "firstName": "Илья",
+          "lastName": "Макаров",
+          "middleName": "Андреевич",
+          "photo": "https://photo.itmo.su/avatar/350554b7-c7b8-4d54-a960-e93c8294e3b5/",
+          "rank": null,
+          "degree": "PhD, технические науки",
+          "positions": [
+            {
+              "department_name": "физический факультет",
+              "department_link": "https://isu.ifmo.ru/pls/apex/f?p=2143:DEP:::NO::BUN_BUN_ID,STR_STR_ID,UBU_UBU_ID:94847,1,",
+              "position_name": "научный сотрудник"
+            },
+            {
+              "department_name": "институт прикладных компьютерных наук",
+              "department_link": "https://isu.ifmo.ru/pls/apex/f?p=2143:DEP:::NO::BUN_BUN_ID,STR_STR_ID,UBU_UBU_ID:111773,1,",
+              "position_name": "доцент (квалификационная категория \"ординарный доцент\")"
+            }
+          ]
+        },
+        {
+          "firstName": "Кристина",
+          "lastName": "Желтова",
+          "middleName": "Анатольевна",
+          "photo": "https://photo.itmo.su/avatar/602a98d8-9d89-435d-a5ca-10aab37f6945/",
+          "rank": null,
+          "degree": null,
+          "positions": [
+            {
+              "department_name": "институт прикладных компьютерных наук",
+              "department_link": "https://isu.ifmo.ru/pls/apex/f?p=2143:DEP:::NO::BUN_BUN_ID,STR_STR_ID,UBU_UBU_ID:111773,1,",
+              "position_name": "преподаватель (квалификационная категория \"преподаватель практики\")"
+            }
+          ]
+        },
+        {
+          "firstName": "Марк",
+          "lastName": "Паненко",
+          "middleName": "Вадимович",
+          "photo": "https://photo.itmo.su/avatar/8cd78142357596c1a759340ac3411551eadb0d3c/",
+          "rank": null,
+          "degree": null,
+          "positions": []
+        },
+        {
+          "firstName": "Валентин",
+          "lastName": "Малых",
+          "middleName": "Андреевич",
+          "photo": null,
+          "rank": null,
+          "degree": "кандидат технических наук",
+          "positions": [
+            {
+              "department_name": "высшая школа цифровой культуры",
+              "department_link": "https://isu.ifmo.ru/pls/apex/f?p=2143:DEP:::NO::BUN_BUN_ID,STR_STR_ID,UBU_UBU_ID:98787,1,",
+              "position_name": "доцент (квалификационная категория \"ординарный доцент\")"
+            },
+            {
+              "department_name": "институт прикладных компьютерных наук",
+              "department_link": "https://isu.ifmo.ru/pls/apex/f?p=2143:DEP:::NO::BUN_BUN_ID,STR_STR_ID,UBU_UBU_ID:111773,1,",
+              "position_name": "доцент (квалификационная категория \"ординарный доцент\")"
+            }
+          ]
+        },
+        {
+          "firstName": "Андрей",
+          "lastName": "Кузнецов",
+          "middleName": "Сергеевич",
+          "photo": "https://photo.itmo.su/avatar/a32ac3b2-7d5b-4a6b-a3f8-0aed8f30ae4f/",
+          "rank": null,
+          "degree": "кандидат технических наук",
+          "positions": [
+            {
+              "department_name": "институт прикладных компьютерных наук",
+              "department_link": "https://isu.ifmo.ru/pls/apex/f?p=2143:DEP:::NO::BUN_BUN_ID,STR_STR_ID,UBU_UBU_ID:111773,1,",
+              "position_name": "преподаватель (квалификационная категория \"преподаватель практики\")"
+            }
+          ]
+        },
+        {
+          "firstName": "Андрей",
+          "lastName": "Кузнецов",
+          "middleName": "Владимирович",
+          "photo": "https://photo.itmo.su/avatar/312c19db-acc5-48ee-a4c2-d6eef232cef8/",
+          "rank": null,
+          "degree": "кандидат технических наук",
+          "positions": [
+            {
+              "department_name": "институт прикладных компьютерных наук",
+              "department_link": "https://isu.ifmo.ru/pls/apex/f?p=2143:DEP:::NO::BUN_BUN_ID,STR_STR_ID,UBU_UBU_ID:111773,1,",
+              "position_name": "доцент (квалификационная категория \"ординарный доцент\")"
+            }
+          ]
+        }
+      ],
+      "locale": "ru",
+      "competitiveGroups": [
+        {
+          "id": 2316,
+          "degree": "master",
+          "study_form": "internal",
+          "title": "Управление ИИ-продуктами / AI Product",
+          "budget_min": null,
+          "contract": null,
+          "year": 2025,
+          "target_reception": null,
+          "invalid": null,
+          "special": null,
+          "pass_score": null,
+          "average_score": null,
+          "contract_foreign": null,
+          "admission_quotas": null,
+          "disciplines": [
+            {
+              "year": null,
+              "stack": 1,
+              "priority": 1,
+              "min_score": 0,
+              "discipline": {
+                "id": 181,
+                "title": "Вступительный экзамен",
+                "short_title": "ВЭ",
+                "link": "https://abit.itmo.ru/page/96/",
+                "description": "Вступительные экзамены проходят в дистанционном формате и оцениваются по 100-балльной шкале. Даты проведения и перечень экзаменационных вопросов опубликованы на странице с описанием образовательной программы. Форма проведения вступительного экзамена может отличаться в зависимости от конкретной образовательной программы. Для получения допуска к экзамену необходимо подать документы на поступление через личный кабинет абитуриента",
+                "admission_type": "university"
+              },
+              "type": "common",
+              "tracks": []
+            },
+            {
+              "year": null,
+              "stack": 1,
+              "priority": 2,
+              "min_score": 0,
+              "discipline": {
+                "id": 195,
+                "title": "Конкурс «Портфолио» Университета ИТМО",
+                "short_title": "КП",
+                "link": "https://abit.itmo.ru/page/portfolio_comp/",
+                "description": "Если у вас есть научно-исследовательские, инженерные или междисциплинарные достижения, вы можете поступить в ИТМО без сдачи вступительного экзамена. Портфолио состоит из трех разделов: мотивационное письмо, резюме и достижения. В зависимости от специфики программы, в CV нужно добавить публикации, выступления на конференциях, сертификаты, дипломы и т. д. Каждое достижение имеет свой балл. Победителем становится конкурсант, набравший более 85 баллов",
+                "admission_type": "university"
+              },
+              "type": "common",
+              "tracks": []
+            },
+            {
+              "year": null,
+              "stack": 1,
+              "priority": 3,
+              "min_score": 0,
+              "discipline": {
+                "id": 151,
+                "title": "МегаОлимпиада ИТМО",
+                "short_title": "МегаОлимпиада ИТМО",
+                "link": "https://mega.itmo.ru/",
+                "description": "Если вы победитель или призер Мегаолимпиады ИТМО, найдите свое направление на сайте олимпиады и посмотрите список программ, на которые можно поступить без экзаменов. Этим правом можно воспользоваться в календарный год проведения Олимпиады или в календарный год, следующий за годом ее проведения. Поступить на следующий год можно только по программам, указанным в правилах приема года поступления.",
+                "admission_type": "university"
+              },
+              "type": "common",
+              "tracks": []
+            },
+            {
+              "year": null,
+              "stack": 1,
+              "priority": 4,
+              "min_score": 0,
+              "discipline": {
+                "id": 187,
+                "title": "Мегашкола ИТМО",
+                "short_title": "Мегашкола",
+                "link": "https://mega.itmo.ru/megaschool",
+                "description": "МегаШкола ИТМО – это лекции и мастер-классы по самым актуальным направлениям: искусственный интеллект, мобильная разработка, робототехника, биотехнология, технологический менеджмент и инновации, гуманитарные исследования и многие другие. Победители МегаШколы могут поступить в магистратуру без экзаменов.",
+                "admission_type": "university"
+              },
+              "type": "common",
+              "tracks": []
+            },
+            {
+              "year": null,
+              "stack": 1,
+              "priority": 5,
+              "min_score": 0,
+              "discipline": {
+                "id": 206,
+                "title": "Медалист/победитель «Я-профессионал»",
+                "short_title": "ЯП",
+                "link": "https://abit.itmo.ru/page/174/",
+                "description": "Медалисты и победители олимпиады «Я-профессионал» могут поступить в магистратуру без экзаменов. Информация о том, на какую программу вы можете поступить став победителем трека, указана в Правилах приема. Правом поступления можно воспользоваться в календарный год победы в олимпиаде и следующий календарный год. Поступить на следующий год можно только на программы, указанные в правилах приема в год поступления.",
+                "admission_type": "university"
+              },
+              "type": "common",
+              "tracks": []
+            },
+            {
+              "year": null,
+              "stack": 1,
+              "priority": 6,
+              "min_score": 0,
+              "discipline": {
+                "id": 146,
+                "title": "Конкурс Junior ML Contest",
+                "short_title": "JMLС",
+                "link": "https://abit.itmo.ru/page/junior_contest/",
+                "description": "Junior ML Contest — отличная возможность поступить на бюджетное место магистратур в области искусственного интеллекта и машинного обучения. Junior ML Contest проходит в двух направлениях. 1. Конкурс проектов. Для участия необходимо отправить свой проект — самостоятельно разработанное решение с применением технологий ML. 2. Курс My First Data Project. Пройди курс по созданию реального продукта на данных с менторской поддержкой, защити проект по итогу и поступи в магистратуру ИТМО без экзаменов.",
+                "admission_type": "faculty"
+              },
+              "type": "common",
+              "tracks": []
+            },
+            {
+              "year": null,
+              "stack": 1,
+              "priority": 7,
+              "min_score": 0,
+              "discipline": {
+                "id": 182,
+                "title": "Рекомендательное письмо от руководителя программы",
+                "short_title": "РОП",
+                "link": null,
+                "description": "Если вы вели работу с сотрудниками ИТМО, то руководитель программы магистратуры может составить письмо, в котором указывает общую характеристику способностей студента, сферу научных интересов и склонность к научной работе. Большое внимание уделяется достижениям за время учебы: выступлениям на конференциях, научным публикациям, участию в научных проектах, конкурсам, олимпиадам.",
+                "admission_type": "university"
+              },
+              "type": "common",
+              "tracks": []
+            }
+          ],
+          "direction_codes": []
+        }
+      ],
+      "degree": "master",
+      "__lang": "ru",
+      "__namespaces": {
+        "general": {
+          "title": "Абитуриент ИТМО",
+          "headerAbit": {
+            "poorVision": "Версия для слабовидящих",
+            "pupils": "Школьникам",
+            "bachelor": "Бакалавриат",
+            "master": "Магистратура",
+            "phd": "Аспирантура",
+            "additional": "Дополнительное образование",
+            "itmoLink": "itmo.ru",
+            "itmoHref": "https://itmo.ru/ru/",
+            "phone": "+7 (812) 480-0-480",
+            "abitEmail": "abit@itmo.ru",
+            "changeLang": "EN",
+            "oldSite": "Перейти на старую версию сайта",
+            "lk": "Личный кабинет",
+            "lkLink": "https://abitlk.itmo.ru/",
+            "phdLink": "/phd",
+            "languageChanger": "Eng"
+          },
+          "postgraduate": "аспирантура",
+          "bachelor": "бакалавриат",
+          "master": "магистратура",
+          "burgerMenu": {
+            "bachelor": {
+              "title": "Бакалавриат",
+              "titleLink": "/bachelor",
+              "preparation": "Подготовиться к поступлению",
+              "preparationLink": "/bachelor#preparation",
+              "contests": "Олимпиады и конкурсы",
+              "contestsLink": "/bachelor#olympiads",
+              "achievements": "Индивидуальные достижения",
+              "achievementsLink": "/bachelor#achievements",
+              "tests": "Вступительные испытания",
+              "testsLink": "/bachelor#admission",
+              "calculator": "Калькулятор ЕГЭ",
+              "scholarship": "Стипендии",
+              "scholarshipLink": "/bachelor#scholarship",
+              "contacts": "Контакты",
+              "contactsLink": "/contacts",
+              "FAQ": "FAQ",
+              "FAQLink": "/faq",
+              "rules": "Правила приема",
+              "rulesLink": "/page/66",
+              "transfer": "Восстановление и перевод",
+              "transferLink": "/transfer/programs/bachelor",
+              "hostel": "Общежития",
+              "hostelLink": "https://student.itmo.ru/ru/dormitory/",
+              "army": "Военный учебный центр",
+              "armyLink": "https://military.itmo.ru/ru/",
+              "programs": "Образовательные программы",
+              "programsLink": "/programs/bachelor",
+              "points": "Проходные и минимальные баллы",
+              "pointsLink": "/bachelor#passingScore",
+              "acceptance": "Ход приемной кампании (конкурсная ситуация)",
+              "documents": "Нормативные документы",
+              "documentsLink": "/page/80",
+              "transferPrograms": "Восстановление и переводы",
+              "transferProgramsLink": "/transfer/2022/programs/bachelor"
+            },
+            "master": {
+              "title": "Магистратура",
+              "titleLink": "/master",
+              "preparation": "Подготовиться к поступлению",
+              "preparationLink": "/master#preparation",
+              "contests": "Олимпиады и конкурсы",
+              "contestsLink": "/master#preparation",
+              "tests": "Вступительные испытания",
+              "testsLink": "/master#preparation",
+              "exchange": "Программы обмена",
+              "scholarship": "Стипендии",
+              "scholarshipLink": "/master#scholarship",
+              "contacts": "Контакты",
+              "contactsLink": "/contacts",
+              "FAQ": "FAQ",
+              "FAQLink": "/faq",
+              "rules": "Правила приема",
+              "rulesLink": "/page/79",
+              "transfer": "Восстановление и перевод",
+              "transferLink": "/transfer/programs/master",
+              "hostel": "Общежития",
+              "hostelLink": "https://student.itmo.ru/ru/dormitory/",
+              "army": "Военный учебный центр",
+              "armyLink": "https://military.itmo.ru/ru/",
+              "programs": "Образовательные программы",
+              "programsLink": "/programs/master",
+              "acceptance": "Ход приемной кампании (конкурсная ситуация)",
+              "documents": "Нормативные документы",
+              "documentsLink": "/page/80",
+              "competitions": "Конкурсы магистратуры",
+              "competitionsLink": "/page/26",
+              "transferPrograms": "Восстановление и переводы",
+              "transferProgramsLink": "/transfer/2022/programs/master",
+              "achievements": "Индивидуальные достижения",
+              "achievementsLink": "/page/211"
+            },
+            "phd": {
+              "title": "Аспирантура",
+              "titleLink": "/phd",
+              "contests": "Олимпиады и конкурсы",
+              "tests": "Вступительные испытания",
+              "testsLink": "https://aspirantura.itmo.ru/?main=8",
+              "supervisor": "Научный руководитель",
+              "scholarship": "Стипендии",
+              "contacts": "Контакты",
+              "FAQ": "FAQ",
+              "rules": "Правила приема",
+              "rulesLink": "https://aspirantura.itmo.ru/?main=4",
+              "hostel": "Общежития",
+              "speciality": "Направления и специальности",
+              "acceptance": "Ход приемной кампании (конкурсная ситуация)",
+              "seats": "Количество мест",
+              "seatsLink": "https://aspirantura.itmo.ru/?main=6",
+              "foreigner": "Прием иностранных граждан",
+              "foreignerLink": "https://aspirantura.itmo.ru/?main=7",
+              "previous": "Прием прошлых лет",
+              "previousLink": "https://aspirantura.itmo.ru/?main=75",
+              "programs": "Программы вступительных испытаний",
+              "programsLink": "https://aspirantura.itmo.ru/?main=9",
+              "achievements": "Индивидуальные достижения",
+              "achievementsLink": "https://aspirantura.itmo.ru/?main=123",
+              "list": "Перечень направлений подготовки",
+              "listLink": "https://aspirantura.itmo.ru/?main=12",
+              "laboratories": "Научные лаборатории",
+              "laboratoriesLink": "https://aspirantura.itmo.ru/?main=125",
+              "paid": "Платное обучение",
+              "paidLink": "https://aspirantura.itmo.ru/?main=13",
+              "openDoors": "Open Doors: Russian Scholarship Project",
+              "openDoorsLink": "https://aspirantura.itmo.ru/?main=43",
+              "useful": "Полезные ссылки",
+              "usefulLink": "/phd#useful-links"
+            },
+            "links": {
+              "title": "Основная информация",
+              "titleLink": "/",
+              "documents": "Нормативные документы",
+              "documentsLink": "/page/80",
+              "information": "Информация о приеме",
+              "informationLink": "/page/113",
+              "docs": "Заполнение документов",
+              "docsLink": "/page/90",
+              "foreign": "Иностранным абитуриентам",
+              "foreignLink": "/page/6",
+              "hostel": "Общежития",
+              "hostelLink": "https://student.itmo.ru/ru/dormitory/",
+              "army": "Военный учебный центр",
+              "armyLink": "https://military.itmo.ru/ru/"
+            },
+            "speciality": {
+              "title": "Направления",
+              "IT": "Информационные технологии",
+              "informationSecurity": "Информационная безопасность",
+              "robotics": "Робототехника",
+              "energy": "Энергетика",
+              "physics": "Физика и инженерия",
+              "chemistry": "Химия и Экология",
+              "biotechnology": "Биотехнология",
+              "science": "Общество и наука",
+              "economy": "Инноватика и экономика"
+            },
+            "structure": {
+              "title": "Структура",
+              "megafaculties": "Мегафакультеты",
+              "internationalDevelopment": "Институт международного развития и партнёрства",
+              "facultyOfTechnology": "Факультет технологического менеджмента и инноваций",
+              "digitalCulture": "Высшая школа цифровой культуры",
+              "engineeringSchool": "Высшая инженерная школа"
+            },
+            "additional": {
+              "title": "Дополнительное образование",
+              "titleLink": "https://start.itmo.ru/",
+              "first": "1-4 класс",
+              "firstLink": "https://start.itmo.ru/catalog?tfc_storepartuid[382366707]=1-4+%D0%BA%D0%BB%D0%B0%D1%81%D1%81&tfc_div=:::",
+              "fifth": "5-8 класс",
+              "fifthLink": "https://start.itmo.ru/catalog?tfc_storepartuid[382366707]=5-8+%D0%BA%D0%BB%D0%B0%D1%81%D1%81&tfc_div=:::",
+              "ninth": "9-11 класс",
+              "ninthLink": "https://start.itmo.ru/catalog?tfc_storepartuid[382366707]=9-11+%D0%BA%D0%BB%D0%B0%D1%81%D1%81&tfc_div=:::",
+              "career": "Профориентация",
+              "careerLink": "https://start.itmo.ru/career_guidance",
+              "news": "Новости и мероприятия",
+              "newsLink": "https://start.itmo.ru/news",
+              "contact": "Связаться",
+              "contactLink": "https://start.itmo.ru/contacts"
+            },
+            "lk": {
+              "title": "Личный кабинет",
+              "titleLink": "https://abitlk.itmo.ru/",
+              "lkHeader": "Перейти в личный кабинет",
+              "lkLink": "https://abitlk.itmo.ru/"
+            },
+            "generalInfo": {
+              "title": "Аспирантура",
+              "titleLink": "/phd",
+              "contests": "Олимпиады и конкурсы",
+              "tests": "Вступительные испытания",
+              "testsLink": "https://aspirantura.itmo.ru/?main=8",
+              "supervisor": "Научный руководитель",
+              "scholarship": "Стипендии",
+              "contacts": "Контакты",
+              "FAQ": "FAQ",
+              "rules": "Правила приема",
+              "rulesLink": "https://aspirantura.itmo.ru/?main=4",
+              "hostel": "Общежития",
+              "speciality": "Направления и специальности",
+              "acceptance": "Ход приемной кампании (конкурсная ситуация)",
+              "seats": "Количество мест",
+              "seatsLink": "https://aspirantura.itmo.ru/?main=6",
+              "foreigner": "Прием иностранных граждан",
+              "foreignerLink": "https://aspirantura.itmo.ru/?main=7",
+              "previous": "Прием прошлых лет",
+              "previousLink": "https://aspirantura.itmo.ru/?main=75",
+              "programs": "Программы вступительных испытаний",
+              "programsLink": "https://aspirantura.itmo.ru/?main=9",
+              "achievements": "Индивидуальные достижения",
+              "achievementsLink": "https://aspirantura.itmo.ru/?main=123",
+              "list": "Перечень направлений подготовки",
+              "listLink": "https://aspirantura.itmo.ru/?main=12",
+              "laboratories": "Научные лаборатории",
+              "laboratoriesLink": "https://aspirantura.itmo.ru/?main=125",
+              "paid": "Платное обучение",
+              "paidLink": "https://aspirantura.itmo.ru/?main=13",
+              "openDoors": "Open Doors: Russian Scholarship Project",
+              "openDoorsLink": "https://aspirantura.itmo.ru/?main=43",
+              "useful": "Полезные ссылки",
+              "usefulLink": "/phd#useful-links"
+            }
+          },
+          "footer": {
+            "personalData": "Политика по обработке персональных данных",
+            "personalDataLink": "https://itmo.ru/file/pages/79/personal_data_policy.pdf",
+            "rulesOfUse": "Правила использования информации в доменной зоне itmo.ru",
+            "information": "Информация © 1993",
+            "link": "https://itmo.ru/ru/",
+            "itmo": "Университет ИТМО ",
+            "menu": "Меню",
+            "inclusive": "Инклюзивное образование",
+            "address": {
+              "city": "197101, г. Санкт-Петербург,",
+              "street": "Кронверкский проспект, д.49, литер А.",
+              "annotation": "(Вход со стороны Сытнинской ул.)"
+            },
+            "menu_links": {
+              "bachelor": {
+                "text": "Бакалавриат",
+                "link": "/bachelor"
+              },
+              "inclusive": {
+                "text": "Инклюзивное образование",
+                "link": "https://centrsio.itmo.ru/ru/"
+              },
+              "hostels": {
+                "text": "Общежития",
+                "link": "https://student.itmo.ru/ru/dormitory/"
+              },
+              "foreign": {
+                "text": "Иностранным абитуриентам",
+                "link": "/page/6"
+              },
+              "scholarships": {
+                "text": "Стипендии ITMO.Family",
+                "link": "/bachelor#scholarship"
+              },
+              "events": {
+                "text": "Мероприятия",
+                "link": "/events"
+              },
+              "master": {
+                "text": "Магистратура",
+                "link": "/master"
+              },
+              "docs": {
+                "text": "Нормативные документы",
+                "link": "/page/80/"
+              },
+              "stars": {
+                "text": "ITMO.Stars",
+                "link": "https://stars.itmo.ru"
+              },
+              "master-activities": {
+                "text": "Конкурсы магистратуры",
+                "link": "/page/26"
+              },
+              "contacts": {
+                "text": "Контакты",
+                "link": "/contacts"
+              },
+              "phd": {
+                "text": "Аспирантура",
+                "link": "/phd"
+              },
+              "extra": {
+                "text": "Дополнительное образование",
+                "link": "https://start.itmo.ru"
+              },
+              "achievements": {
+                "text": "Индивидуальные достижения",
+                "link": "/bachelor#achievements"
+              },
+              "rules": {
+                "text": "Правила приема",
+                "link": "/page/66"
+              },
+              "faq": {
+                "text": "FAQ",
+                "link": "/faq"
+              },
+              "crediting": {
+                "text": "Образовательный кредит",
+                "link": "/page/crediting"
+              }
+            }
+          },
+          "edit": {
+            "title": "Редактировать версию программы: ",
+            "ru": "rus / ",
+            "en": " eng"
+          },
+          "search": {
+            "placeholder": "Например: Информационные технологии",
+            "adaptivePlaceholder": "Информационные технологии",
+            "btn": "искать",
+            "allPrograms": "Все программы"
+          },
+          "findYourProgram": "Найти программу мечты",
+          "tags": {
+            "title": "Абитуриенту ИТМО - поступить в университет в Санкт-Петербурге",
+            "description": "Приглашаем абитуриентов поступить в ИТМО в Санкт-Петербурге. Входим в ТОП-5 ВУЗов России. Есть возможность поступить на бюджет. Читайте информацию о сроках поступления, вступительных испытаниях и другое."
+          },
+          "reviews": {
+            "header": "отзывы выпускников"
+          },
+          "admission": {
+            "title": "Как поступить?",
+            "subtitle": "Поступить на программу можно несколькими путями, выбери подходящий и вперед!"
+          },
+          "accordion": {
+            "link": "Подробнее"
+          },
+          "banner": {
+            "title": "Ход приемной кампании",
+            "link": "/page/admission_campaign",
+            "16104Title": "Присоединяйся к ознакомительному курсу",
+            "16104Link": "https://netology.ru/backend/api/get_access/product_design-pk",
+            "watch": "смотреть",
+            "close": "Скрыть"
+          },
+          "slider": {
+            "showAll": "Показать все"
+          },
+          "tabs": {
+            "naturalSciences": "Естественные науки",
+            "techSciences": "Технические науки",
+            "agriculturalSciences": "Сельскохозяйственные науки",
+            "humanitarianSciences": "Социальные и гуманитарные науки",
+            "heading": {
+              "bachelor": "Бакалавриат",
+              "master": "Магистратура",
+              "phd": "Аспирантура"
+            }
+          },
+          "statistics": {
+            "accumulationContracts": {
+              "paid": "Контрактов оплачено",
+              "created": "Контрактов создано"
+            }
+          }
+        },
+        "errors": {
+          "error_page": {
+            "404": {
+              "span": "OOPS",
+              "title": "404 error",
+              "description": "Страница не найдена! Возможно, запрашиваемая вами страница была перенесена или удалена.",
+              "return": "вернуться на главную"
+            },
+            "500": {
+              "span": "OOPS",
+              "title": "500 error",
+              "description": "Что-то пошло не так! Пожалуйста, попробуйте позже.",
+              "return": "обновить страницу"
+            }
+          }
+        },
+        "common": {
+          "results": {
+            "heading": "Мы начали приём документов!",
+            "text": "Все про правила приема, бюджетные места и программы здесь"
+          },
+          "tabs": {
+            "heading": {
+              "bachelor": "Бакалавриат",
+              "master": "Магистратура",
+              "phd": "Аспирантура"
+            }
+          },
+          "programs": {
+            "space_lasers": "Космические лазеры",
+            "programming": "Программирование",
+            "optics": "Оптика",
+            "science": "Наука",
+            "safety": "Безопасность"
+          },
+          "about": {
+            "header": "итмо — это",
+            "text_1": "Супер-персонифицированное образование",
+            "text_2": "Знания из первых рук — от ученых и практиков",
+            "text_3": "Помощь в развитии своих проектов и знакомства с будущими работодателями"
+          },
+          "directions": {
+            "header": "направления",
+            "button": "Буклет абитуриента",
+            "id": "directions",
+            "items": {
+              "text_1": "Информационные технологии",
+              "text_2": "Физика",
+              "text_3": "Науки о жизни",
+              "text_4": "Инженерия",
+              "text_5": "Экономика и инновации",
+              "text_6": "Междисциплинарные исследования"
+            }
+          },
+          "heading": {
+            "title": "выбирай ИТМО\n и не выбирай вообще"
+          },
+          "advantages": {
+            "heading": {
+              "text": "вместе с итмо",
+              "colored": "мечтай и делай"
+            },
+            "adaptiveButton": "показать еще",
+            "advantages_1": "Средняя зарплата выпускников через&nbsp;1-3&nbsp;года\n&nbsp;>&nbsp;80&nbsp;000&nbsp;рублей",
+            "advantages_2": "Актуальные знания от&nbsp;работодателей прямо на&nbsp;лекциях",
+            "advantages_3": "Soft skills для&nbsp;успешной карьеры и&nbsp;работы\nв&nbsp;команде",
+            "advantages_4": "Семестр или год за&nbsp;рубежом для&nbsp;студентов любых направлений",
+            "advantages_5": "Стипендия до&nbsp;30&nbsp;000&nbsp;рублей, общежития в&nbsp;черте города",
+            "advantages_6": "Программа трудоустройства для&nbsp;всех студентов и&nbsp;выпускников",
+            "show": "показать еще",
+            "hide": "скрыть"
+          },
+          "gallery": {
+            "heading": "студенческая жизнь",
+            "linkText": "Чтобы узнать практически всё про студенческую жизнь в ИТМО, перейди на ITMO.STUDENTS",
+            "link": "https://vk.com/itmostudents"
+          },
+          "pupils": {
+            "title": "школьникам"
+          },
+          "aboutUniversity": {
+            "title": "об университете",
+            "videoId": "https://vk.com/video_ext.php?oid=-94&id=456239916&hd=2"
+          },
+          "ratings": {
+            "title": "ИТМО в рейтингах",
+            "date": "Дата проведения рейтинга",
+            "place": "Место в рейтинге",
+            "items": {
+              "position_1": "Рейтинг вузов по версии Forbes",
+              "place_1": "7 место",
+              "position_2": "SuperJob. Рейтинг лучших вузов по уровню зарплат выпускников",
+              "place_2": "2 место",
+              "position_3": "Мониторинг качества приема, НИУ ВШЭ",
+              "place_3": "5 место",
+              "position_4": "QS World University Rankings by Subject: Computer Science & Information Systems",
+              "place_4": "79 место",
+              "position_5": "ARWU Global Ranking of Academic Subjects: Automation & Control",
+              "place_5": "76-100 место",
+              "position_6": "Times Higher Education Emerging Economies University Rankings",
+              "place_6": "58 место",
+              "position_7": "QS Engineering & Technology",
+              "place_7": "155 место"
+            }
+          },
+          "partners": {
+            "header": "партнеры ИТМО"
+          },
+          "history": {
+            "header": "истории успеха",
+            "items": {
+              "name_1": "Михаил Леонтьев",
+              "position_1": "Предприниматель, создатель бренда New Wallet <br> Выпуск 2014 года",
+              "text_1": "«Моя глобальная мечта – чтобы в понимании многих людей Россия и бизнес стали словами-синонимами»",
+              "name_2": "Виктория Горелкина",
+              "position_2": "Светодизайнер в Берлине <br> Выпуск 2014 года",
+              "text_2": "«Работа в фирме иногда дает студенту возможность использовать рабочие проекты как базу для диплома, а также советоваться с практикующими экспертами»",
+              "name_3": "Илья Чех",
+              "position_3": "Основатель компании Моторика <br> Выпуск 2013 года",
+              "text_3": "«Любое дело должно быть ради пользы — ради развлечения делать что-то у меня никакого интереса нет»",
+              "name_4": "Андрей Бреслав",
+              "position_4": "Руководитель разработки и архитектор языка программирования Kotlin, со-основатель Alter <br> Выпуск 2007 года",
+              "text_4": "«Kotlin — язык для всех платформ. Мы сделали язык, который позволяет вам использовать все, что было написано на ряде других языков раньше»"
+            }
+          },
+          "news": {
+            "header": "новости",
+            "button": "все новости",
+            "adaptiveButton": "посмотреть все",
+            "phdLink": "https://news.itmo.ru/ru/search/?tag=Аспирантура",
+            "bachelorLink": "https://news.itmo.ru/ru/search/?tag=Бакалавриат",
+            "masterLink": "https://news.itmo.ru/ru/search/?tag=Магистратура",
+            "mainLink": "https://news.itmo.ru/ru/search/?tag=Поступление"
+          },
+          "reviews": {
+            "items": {
+              "text_1": "«Мечта почти каждого программиста — разработать продукт, которым будут пользоваться миллионы людей. Для создания качественных высоконагруженных систем необходимы как знания об алгоритмах и структурах данных, так и глубокое понимание процессов, которые происходят при работе компьютера. В России существует всего несколько мест, где обучают этому на высоком уровне. Программа «Информатика и программирование» Университета ИТМО — одно из таких мест. Один из плюсов программы — тесное взаимодействие с IT-компаниями. Начиная со второго курса у студентов есть возможность применить полученные знания в реальных проектах. Однако, поступая, стоит понимать, что придется много учиться и, к сожалению, не у всех это получается».",
+              "name_1": "Борис Минаев",
+              "year_1": "Выпускник университета ИТМО",
+              "text_2": "«Я уверена, что Университет ИТМО — это лучший выбор для тех, кому интересны новые технологии, общение с прогрессивными образованными людьми и саморазвитие. Посвятив немало времени и сил изучению учебного материала, расширив свой кругозор, побывав в роли исследователя, аналитика, став в конечном счете не только успешным студентом, но и сотрудником университета, я получила бесценный опыт и знания, которые ценны в современном мире и позволяют быть конкурентоспособным во многих сферах деятельности».",
+              "name_2": "Сюзанна Белкина",
+              "year_2": "Выпуск 2013 года",
+              "text_3": "«Здесь созданы уникальные условия для обучения и дальнейшего развития себя как ученого. Особенностью обучения и работы на факультете является свобода: имеется широкий выбор направлений деятельности – от фундаментальных теоретических исследований до сугубо прикладных задач. Более того, налажено активное междисциплинарное взаимодействие, позволяющее расширять свой кругозор, окунаясь в различные области знания. Помимо этого, есть возможность познакомиться и работать (в том числе за границей) с учеными мирового уровня, с которыми установлено тесное сотрудничество».",
+              "name_3": "Дмитрий Жирихин",
+              "year_3": "Выпуск 2017 года",
+              "text_4": "«Обучение в магистратуре «Световодная фотоника и программируемая электроника» дало мне возможность реализовать себя в качестве инженера волоконной оптики, руководителя собственного проекта, связанного с медицинской разработкой, и студента-отличника. За время обучения в университете мной было написано более 30-ти научных статей, тематикой которых является разработка датчиков физических величин для применения в медицине. Один из моих наиболее успешных проектов – это разработка волоконного рассеивателя для лечения новообразований. Я верю, что данное изобретение сможет спасти чьи-то жизни! Трудолюбие, упорство и вера в себя поможет добиться успеха в любой сфере, которая близка Вашему сердцу. Пропишите свою цель, учитесь на «отлично» и побеждайте в различных конкурсах стипендий и тогда, я уверена, Вы достигните успеха!».",
+              "name_4": "Моор Янина",
+              "year_4": "Выпуск 2021 года",
+              "text_5": "«Программа инновационного предпринимательства дала мне возможность реализовать свои идеи в реальный международный технологический проект, собрать команду, получить экспертную оценку, протестировать и трансформировать бизнес-модель. В Университете ИТМО возможно не только получить теоретические знания, но и построить реально работающий бизнес».",
+              "name_5": "Олави Сиикки (Olavi Siikki)",
+              "year_5": "Выпуск 2021 года"
+            }
+          },
+          "reviewsPhd": {
+            "items": {
+              "text_1": "В ИТМО я понял, что наука – это то, чем мне интересно заниматься. Меня привлекло направление, на котором я сейчас учусь: оно объединяет физику, химию, инженерию, программирование и автоматизацию. Особый интерес представляет автоматизация, необходимая для повышения точности исследований, минимазации человеческого фактора и ускорения обработки данных. Такой подход открывает перспективы для решения глобальных экологических проблем, что делает направление не только актуальным, но и социально значимым. Один из моих проектов в аспирантуре посвящен автоматизации мобильной клеточной мини-лаборатории для контроля клеточных и бактериальных систем. Чтобы повысить воспроизводимость экспериментов и снизить риски загрязнения клеточных культур, в лаборатории установлена роборука — коллаборативный манипулятор Rozum Pulse 90. Я разрабатываю методы автоматизации этой лаборатории, включая адаптацию манипулятора к работе с различным химическим оборудованием. Кстати, такие лаборатории уже используют в российских школах. Аспирантура для меня — это не просто продолжение обучения, но и возможность работать над тем, что действительно увлекает. Она дает практический опыт и помогает решать реальные задачи.",
+              "name_1": "Александр Семенов",
+              "year_1": "специальность «Методы и приборы контроля и диагностики материалов, изделий, веществ и природной среды»",
+              "text_2": "Я пошел в аспирантуру, потому что занимался наукой еще с бакалавриата: сначала учился на «Медицинской физике» в Санкт-Петербургском политехническом университете Петра Великого, а затем в магистратуре ИТМО на программе « Современные квантовые и нанофотонные системы ». Чтобы продолжить работу в ИТМО, я поступил сюда же в аспирантуру на специальность «Оптика». Направление было близко моей программе в магистратуре, кроме того, я хотел продолжить работу на том же факультете — Новом физтехе. В рамках своей научной деятельности я изучаю и разрабатывают наночастицы. В частности за время аспирантуры я исследовал применение золотых частиц для фототермической терапии при лечении онкологических заболеваний. Эти исследования требуют различных компетенций, поэтому проекты получаются междисциплинарными: приходится совмещать материаловедение, биологию, эксперименты in vivo. Мне нравится работать над сложными проектами, требующими взаимодействия разных специалистов и научных коллективов, которые есть в ИТМО. Я ценю академическую свободу в аспирантуре ИТМО: здесь я могу развиваться не только как ученый, но и как руководитель. Мне нравится, что я могу влиять на то место, где нахожусь — ИТМО открыт к новым идеям и инициативам. За то время, что я был аспирантуре, мне удалось запустить общеуниверситетский проект — конкурс междисциплинарных студенческих проектов ITMO.Collab. Этот конкурс проходит уже третий год и объединяет исследователей с различных мегафакультетов. Инициатива закладывает основу для более тесного взаимодействия магистрантов и аспирантов и помогает готовить будущих PI внутри университета.",
+              "name_2": "Алексей Пельтек",
+              "year_2": "аспирант по специальности «Оптика»",
+              "text_3": "В аспирантуре я разработал программу на основе искусственного интеллекта для улучшения жизни граждан Анголы. Это инновационная система TERS (Target Emotional Routing System), которая помогает улучшить качество обслуживания граждан Анголы в общественных местах: банках, многофункциональных центрах и других учреждениях. С помощью искусственного интеллекта система распознает эмоции и возраст людей по выражению лица в режиме реального времени и на основе этих данных автоматически определяет оптимальный маршрут обслуживания клиентов. Технология помогает сократить время ожидания в очередях, предотвратить конфликты, направляя эмоционально напряженных клиентов к специальным сотрудникам, обеспечивает приоритетное обслуживание пожилых людей. Программа уже внедрена в крупном ангольском банке Banco Sol в Луанде, в службе гражданской защиты и пожарной службе Анголы, где помогла улучшить качество обслуживания.",
+              "name_3": "Гедеш Мануэл Сома",
+              "year_3": "гражданин Анголы, специальность «Управление в организационных системах»"
+            }
+          },
+          "banner": {
+            "title": "Ход приемной кампании",
+            "link": "/page/admission_campaign"
+          },
+          "documents": {
+            "title": {
+              "firstRow": "Поступление ",
+              "secondRow": "абитуриентов"
+            },
+            "changeLang": {
+              "firstRow": "You don’t speak Russian?",
+              "secondRow": "It’s more than okay",
+              "link": "Come here"
+            },
+            "button": "Подать документы",
+            "lkLink": "https://abitlk.itmo.ru/",
+            "buttonPartners": "Мероприятия для абитуриентов",
+            "linkPartners": "/events"
+          },
+          "levelsOfEducation": {
+            "bachelor": "Бакалавриат",
+            "master": "Магистратура",
+            "phd": "Аспирантура",
+            "additional": "Дополнительное образование"
+          },
+          "events": {
+            "header": "мероприятия",
+            "button": "все мероприятия",
+            "adaptiveButton": "посмотреть все"
+          },
+          "campus": {
+            "title": "кампусы и ",
+            "titleSecond": "общежития",
+            "firstRow": "Фотоника и оптоинформатика — это современный раздел физики. Он занимается квантовыми",
+            "secondRow": "коммуникациями и фемтосекундными лазерными технологиями Звучит супер? Именно! Ты",
+            "thirdRow": "сможешь создавать системы со скоростью более 100 Тб/сек.",
+            "mapButton": "Открыть карту",
+            "details": "Подробнее",
+            "academic": {
+              "building_1": "Кронверкский проспект, д. 49",
+              "stations_1": "Горьковская, Чкаловская",
+              "building_2": "Улица Ломоносова, д. 9",
+              "stations_2": "Достоевская, Владимирская, Звенигородская",
+              "building_3": "Переулок Гривцова, д. 14-16",
+              "stations_3": "Садовая, Спасская, Сенная площадь",
+              "building_4": "Улица Чайковского, д. 11/2",
+              "stations_4": "Чернышевская",
+              "building_5": "Биржевая линия, д. 14-16",
+              "stations_5": "Спортивная, Василеостровская",
+              "building_6": "Биржевая линия, д. 4",
+              "stations_6": "Спортивная, Василеостровская",
+              "building_7": "Песочная наб., д 14",
+              "stations_7": "Петроградская, Черная речка"
+            },
+            "locations": {
+              "building_1": "Библиотека",
+              "address_1": "Улица Ломоносова 9",
+              "building_2": "Коворкинг на Кронверкском",
+              "address_2": "Кронверкский проспект, д. 49",
+              "building_3": "Коворкинг в Студофисе",
+              "address_3": "Улица Ломоносова 9",
+              "building_4": "Коворкинг на Ломоносова",
+              "address_4": "Улица Ломоносова 9",
+              "building_5": "Коворкинг на Биржевой",
+              "address_5": "Биржевая линия, д. 14-16",
+              "building_6": "Столовая «Чайка на Кроне»",
+              "address_6": "Кронверкский проспект, д. 49",
+              "building_7": "Столовая Carrot",
+              "address_7": "Улица Ломоносова 9",
+              "building_8": "Столовая на Чайковского",
+              "address_8": "Улица Чайковского, д. 11/2",
+              "building_9": "Столовая на Гривцова",
+              "address_9": "Переулок Гривцова, д. 14-16",
+              "building_10": "Столовая на Биржевой",
+              "address_10": "Биржевая линия, д. 14-16",
+              "building_11": "Bars Arena",
+              "address_11": "Улица Ломоносова 9",
+              "building_12": "СК \"Вяземский\"",
+              "address_12": "Вяземский переулок 5/7",
+              "building_13": "СК \"Альпийский\"",
+              "address_13": "Альпийский переулок, 15, к. 2",
+              "building_14": "VALO",
+              "address_14": "ул. Салова, 61",
+              "building_15": "WE&I BY VERTICAL",
+              "address_15": "Б. Сампсониевский пр., 74к2",
+              "building_16": "АЛИОТ",
+              "address_16": "ул. Возрождения, 4",
+              "building_17": "Best Western Zoom Hotel",
+              "address_17": "ул. Матроса Железняка, 2",
+              "building_18": "Хостел на Биржевой",
+              "address_18": "Биржевой переулок, дом 2",
+              "building_19": "START",
+              "address_19": "Поселок Парголово, Толубеевский проезд, 8к2",
+              "building_20": "Хостел на Среднем",
+              "address_20": "Средний пр. В. О., дом 85"
+            },
+            "dormitories": {
+              "dormitory_1": "Студенческий городок",
+              "address_1": "Пер. Вяземский, д. 5/7",
+              "dormitory_2": "Общежитие №2",
+              "address_2": "Ул. Ленсовета, д. 23, лит. А",
+              "dormitory_3": "Общежитие № 3",
+              "address_3": "Альпийский пер., д.15, к. 2, лит. А",
+              "dormitory_4": "Общежитие № 4",
+              "address_4": "Ул. Белорусская, д. 6, лит. А",
+              "dormitory_5": "Межвузовский студ.городок",
+              "address_5": "Пр. Новоизмайловский, д. 16",
+              "dormitory_6": "Доходный дом",
+              "address_6": "Наб. р. Карповки, д. 22, к. 2, лит. Б"
+            }
+          },
+          "campuses": {
+            "title": "Учебные корпуса"
+          },
+          "spaces": {
+            "title": "Общественные пространства"
+          },
+          "hostels": {
+            "title": "Общежития"
+          },
+          "scholarship": {
+            "title": {
+              "one": "Стипендии ITMO.Family 2025",
+              "two": "Стипендии ITMO.Family"
+            }
+          },
+          "studyAbroad": {
+            "title": "Международные возможности",
+            "subtitle": "Университет ИТМО готов поддержать тебя в стремлении участвовать в онлайн и офлайн образовательных мероприятиях не только в России, но и за рубежом.",
+            "subtitle-second": "Более 70 ведущих научных организаций мира работают с ИТМО.",
+            "text": "Ты можешь подать заявку на участие в онлайн- и офлайн- конференциях, семинарах, школах, интенсивных неделях, олимпиадах, чемпионатах, научно-исследовательских стажировках и других мероприятиях российских и иностранных вузов, организуемых как вузами-партнёрами, так и другими учебными и научными центрами.",
+            "button": "все возможности",
+            "link": "https://int.itmo.ru/ru/",
+            "buttonLink": "https://int.itmo.ru/ru/for_students"
+          },
+          "subscription": {
+            "text": "подпишись, чтобы первым узнать все новости и обновления университета",
+            "placeholder": "Твой e-mail",
+            "btn": "подписаться",
+            "send": {
+              "ok": "Подписка успешно оформлена",
+              "error": "Введен некорректный email 😢"
+            }
+          },
+          "slogan": {
+            "main": "Все складывается в ИТМО",
+            "value": {
+              "piter": "Питер",
+              "neva": "Нева",
+              "white_nights": "Белые ночи",
+              "palaces": "Дворцы",
+              "bridges": "Мосты",
+              "entrances": "Парадные",
+              "hermitage": "Эрмитаж",
+              "bronze_horseman": "Медный всадник",
+              "donuts": "Пышки",
+              "robots": "Роботы",
+              "physics": "Физика",
+              "programming": "Программирование",
+              "chemistry": "Химия",
+              "lasers": "Лазеры",
+              "biotech": "Биотех",
+              "infochemistry": "Инфохимия",
+              "inventions": "Изобретения",
+              "innovation": "Инновации",
+              "ai": "ИИ",
+              "neural_networks": "Нейросети",
+              "startup": "Стартап",
+              "JAVA": "JAVA",
+              "hackathons": "Хакатоны",
+              "gamedev": "GameDev",
+              "eSports": "Киберспорт",
+              "big_data": "Big Data",
+              "blockchain": "Blockchain",
+              "grants": "Гранты",
+              "discoveries": "Открытия",
+              "internships": "Стажировки",
+              "python": "Python",
+              "fintech": "Финтех",
+              "it": "ИТ",
+              "coworking": "Коворкинги",
+              "labs": "Лаборатории",
+              "style": "Стиль"
+            }
+          }
+        },
+        "program": {
+          "button": "искать",
+          "check": "Посмотреть",
+          "information": {
+            "bachelor_programs": "Образовательные программы бакалавриата",
+            "master_programs": "Образовательные программы магистратуры",
+            "phd_programs": "Образовательные программы аспирантуры",
+            "in_favorites": "В избранном",
+            "submit_documents": "подать документы",
+            "submit_documents_href": "https://abitlk.itmo.ru/",
+            "transfer_submit_documents_href": "https://student.itmo.ru/en/transfer_expulsion_rehabilitation_vacation/",
+            "header": "фотоника и оптоинформатика",
+            "faculty_physics_and_technology": "Физико-технический факультет",
+            "faculty_photonics": "Факультет фотоники",
+            "program_manager": "Менеджер программы",
+            "transfer_manager": "Менеджер ОСОП",
+            "program_socials": "Программа в соцсетях",
+            "switch_text": "для иностранцев",
+            "additional": "ОП",
+            "office_contacts": "Контакты студ.офиса",
+            "office_address": "ул. Ломоносова, д. 9, ауд. 1400",
+            "OSOP_contact": "Контакты ОСОП",
+            "OSOP": "ОСОП - офис сопровождения образовательных программ"
+          },
+          "entry": {
+            "title": "Даты вступительного экзамена"
+          },
+          "directions": {
+            "header": "направления подготовки",
+            "headerPhd": "укрупненная группа научных специальностей",
+            "budget": "бюджетных",
+            "targets": "целевая",
+            "contract": "контрактных",
+            "invalid": "особая",
+            "quota": "отдельная",
+            "name": "квота"
+          },
+          "partners": {
+            "header": "партнеры программы",
+            "title": "Партнер программы",
+            "button": "больше о нашей программе"
+          },
+          "specializations": {
+            "header": "специализации",
+            "button": "подробнее о специализации",
+            "name": "Петров Василий Александрович",
+            "post_1": "Доктор технических наук",
+            "post_2": "Руководитель центра электротезники"
+          },
+          "team": {
+            "header": "Команда образовательной программы",
+            "button_more": "показать всех",
+            "button_hide": "скрыть",
+            "id": "team",
+            "headerPhd": "Ключевые научные руководители",
+            "lead": "Руководитель программы"
+          },
+          "career": {
+            "header": "Карьера",
+            "title": "Фотоника и оптоинформатика — это современный раздел физики. Он занимается квантовыми коммуникациями и фемтосекундными лазерными технологиями. Звучит супер? Именно! Ты сможешь создавать системы со скоростью более 100 Тб/сек.",
+            "text": "С другой стороны реализация намеченных плановых заданий требуют определения и уточнения систем массового участия. Разнообразный и богатый опыт новая модель организационной деятельности влечет за собой процесс внедрения и модернизации дальнейших направлений развития. Повседневная практика показывает, что консультация с широким активом позволяет оценить значение модели развития.",
+            "button_more": "Показать все",
+            "button_hide": "Скрыть"
+          },
+          "job": {
+            "header": "ты сможешь работать в компаниях",
+            "title": "или в лабораториях",
+            "menu": "Компании-работодатели",
+            "color_text": "университета итмо",
+            "opportunities": "смотреть вакансии"
+          },
+          "achievements": {
+            "header": "Достижения студентов",
+            "headerPhd": "Достижения аспирантов",
+            "button": "подробнее"
+          },
+          "individual_achievements": {
+            "heading": "добавить баллов при поступлении помогут индивидуальные достижения",
+            "menu": "Индивидуальные достижения"
+          },
+          "opportunities": {
+            "heading": "международные возможности",
+            "title": "Университет ИТМО готов поддержать тебя в стремлении участвовать в онлайн и офлайн образовательных мероприятиях не только в России, но и за рубежом.\n Более 70 ведущих научных организаций мира работают с ИТМО.",
+            "text": "Ты можешь подать заявку на участие в онлайн- и офлайн- конференциях, семинарах, школах, интенсивных неделях, олимпиадах, чемпионатах, научно-исследовательских стажировках и других мероприятиях российских и иностранных вузов, организуемых как вузами-партнёрами, так и другими учебными и научными центрами.",
+            "button": "все возможности",
+            "link": "https://int.itmo.ru/ru/for_students",
+            "list": {
+              "header_1": "Образовательные мероприятия и стажировки для студентов",
+              "text_1": "Хотите поехать на конференцию, школу или семинар в другую страну? Университет ИТМО готов компенсировать до 70% поездки.",
+              "header_2": "Обучение за границей для студентов ИТМО",
+              "text_2": "Нашли интересную программу за рубежом и хотите поехать на обменный семестр? Расскажи о своей мотивации в заявке и получи финансовую поддержку.",
+              "header_3": "Study Abroad at Home",
+              "text_3": "Если ты не едешь за границу, она едет к тебе! Обучайся в одной группе с иностранцами и изучай предметы на английском.",
+              "header_4": "Buddy System",
+              "text_4": "Стань другом или тьютором для иностранного студента: языковая практика, soft skills и дополнительные бонусы при подаче на программы мобильности included!",
+              "header_5": "Конкурс стипендий Президента РФ для обучения за рубежом сроком от одного семестра",
+              "text_5": "Стипендия покрывает расходы на проживание, медицинскую страховку, оплату местного транспорта, визу, обучение и проезд до места расположения зарубежного университета и обратно."
+            }
+          },
+          "faq": {
+            "heading": "Часто задаваемые вопросы"
+          },
+          "similar_programs": {
+            "heading": "Похожие программы"
+          },
+          "disciplines": {
+            "header": "Дисциплины учебного плана"
+          },
+          "aboutProgram": {
+            "title": "о программе",
+            "titleSpeciality": "о специальности"
+          },
+          "study_plan": {
+            "heading": "Учебный план",
+            "text": "Чтобы точно знать, что тебя ждет, посмотри план обучения.",
+            "button": "Скачать учебный план"
+          },
+          "examQuestions": {
+            "title": "Вопросы для вступительного экзамена",
+            "titlePhd": "Программа вступительного испытания",
+            "menu": "Вопросы для экзамена",
+            "button": "смотреть"
+          },
+          "scholarship": {
+            "title": "Стипендиальные возможности"
+          },
+          "onlineEducation": {
+            "title": "Онлайн Образование",
+            "links": {
+              "link_1": "Программа ITMO.Online",
+              "link_2": "Перезачет онлайн курса за дисциплину"
+            }
+          },
+          "togetherWithItmo": {
+            "title": "Действуй вместе с ИТМО",
+            "button": "Подать документы"
+          }
+        },
+        "master/common": {
+          "scholarship": {
+            "title": {
+              "one": "Стипендии",
+              "two": "Стипендии ITMO.Family"
+            }
+          },
+          "preMaster": {
+            "title": "Pre Masters",
+            "menu": "Подготовительные курсы",
+            "text": "Это курсы Университета ИТМО, специально отобранные руководителями программ на открытых платформах, а также дополнительные материалы, которые дают возможность подготовиться к поступлению на программу и поближе познакомиться с предметной областью!",
+            "buttonModal": "Скачать файл с подробным описанием",
+            "buttonModalMobile": "Скачать",
+            "listModal": "Список курсов для подготовки",
+            "questionsModal": "Вопросы для вступительного экзамена",
+            "showQuestionsModal": "Смотреть список вопросов",
+            "id": "premasters",
+            "button": "Посмотреть"
+          }
+        },
+        "admission": {
+          "button": "Для иностранцев",
+          "id": "admission",
+          "ege": {
+            "points_title": "Минимальные баллы",
+            "last_year_title": "Вступительные испытания и статистика прошлого года",
+            "table": {
+              "group": "Конкурсная группа",
+              "pass_score": "Проходной балл",
+              "average_score": "Средний балл",
+              "exam": "ВИ"
+            }
+          },
+          "tabs": {
+            "olympiad": "Олимпиады школьников",
+            "contests": "Конкурсы",
+            "ege": "По результатам егэ или вступительным испытаниям",
+            "target": "На целевое обучение",
+            "categories": "Льготные категории",
+            "free": "Контрактное обучение",
+            "dates": "Основные даты"
+          },
+          "schoolOlympiad": {
+            "description": "Олимпиады для школьников позволят поступить без вступительных испытаний. Победа или призерство во Всероссийских олимпиадах школьников гарантирует поступление без подтверждения диплома результатами ЕГЭ (срок действия диплома 4 года). Победа или призерство в олимпиадах из списка Российского совета олимпиад школьников позволяет поступить без вступительных испытания или получить 100 баллов по дисциплине при подтверждении олимпиады 75 баллами по профильному предмету (срок действия диплома 4 года).",
+            "links": {
+              "text_1": "Олимпиады РСОШ, дающие право поступления без вступительных испытаний в 2025 году",
+              "link_1": "https://abit.itmo.ru/file_storage/file/pages/82/rsosh_bvi_2025.pdf",
+              "text_2": "Олимпиады РСОШ для получения права на 100 баллов в отношении общеобразовательного вступительного испытания, не дающие право поступления без вступительных испытаний в 2025 году",
+              "link_2": "https://abit.itmo.ru/file_storage/file/pages/82/rsosh_100_2025.pdf",
+              "text_3": "Олимпиады ВСОШ, дающие право поступления без вступительных испытаний в 2025",
+              "link_3": "https://abit.itmo.ru/file_storage/file/pages/82/vsosh_2025.pdf"
+            }
+          },
+          "contract": {
+            "description": "Абитуриенты, набравшие минимальные баллы ЕГЭ, установленные университетом по каждой дисциплине, могут участвовать в конкурсе на контрактное обучение. Стоимость обучения фиксируется на весь период обучения на программе бакалавриата. Студент, закончивший два семестра подряд на «хорошо» и «отлично» может подать заявление на перевод на бюджетную форму обучения. Оплата обучения производится по семестрам (осенний семестр 55%, весенний 45%).",
+            "listTitle": "Оплатить обучение в Университете ИТМО возможно несколькими способами:",
+            "element_1": "оплата и заключение договора физическим лицом;",
+            "element_2": "оплата и заключение договора юридическим лицом;",
+            "element_3": "оплата из средств материнского капитала;",
+            "element_4": "оплата с помощью образовательного кредита.",
+            "links": {
+              "text_1": "Стоимость обучения по договорам об оказании платных услуг при приеме по программам бакалавриата, магистратуры, аспирантуры в 2025 году",
+              "link_1": "https://abit.itmo.ru/file_storage/file/pages/80/price_rf.pdf",
+              "text_2": "Стоимость обучения иностранных граждан и лиц без гражданства по договорам об оказании платных услуг при приеме по программам бакалавриата, магистратуры, аспирантуры в 2025 году",
+              "link_2": "https://abit.itmo.ru/file_storage/file/pages/80/price_foreigner.pdf"
+            }
+          },
+          "contests": {
+            "stars": {
+              "title": "Конкурс ITMO.STARS",
+              "description": "Конкурс уникальных достижений, который проводится для талантливых и мотивированных абитуриентов, желающих стать студентами Университета ИТМО и получить возможность бесплатного обучения по программам бакалавриата (обучение оплачивает сам университет). К участию допускаются абитуриенты, заканчивающие обучение в рамках среднего (полного) общего образования.",
+              "link": "https://stars.itmo.ru/"
+            },
+            "kronbars": {
+              "title": "Конкурс KRONBARS.STARS",
+              "description": "Конкурс спортивных достижений абитуриентов который проводится для абитуриентов, проявивших высокие спортивные результаты и желающих стать студентами Университета ИТМО и получить возможность бесплатного обучения по программам бакалавриата (обучение оплачивает сам университет). К участию допускаются абитуриенты, заканчивающие обучение в рамках среднего (полного) общего образования.",
+              "link": "https://stars.kronbars.ru/"
+            },
+            "listTitle": "Для участия в конкурсе потребуется:",
+            "button": "подробнее",
+            "element_1": "наличие минимальных баллов по вступительным испытаниям (или по результатам ЕГЭ);",
+            "element_2": "наличие аттестата о среднем (полном) общем образовании;",
+            "element_3": "отсутствие высшего/неполного высшего образования;"
+          },
+          "admissionTabs": {
+            "0": "Общеуниверситетские вступительные",
+            "1": "Вступительные факультетов и программ",
+            "2": "Основные даты",
+            "3": "Вступительные испытания"
+          }
+        },
+        "phd": {
+          "hero": {
+            "title": {
+              "colored": "Поступление ",
+              "text": "в  аспирантуру"
+            },
+            "button": "подать документы",
+            "lkLink": "https://abitlk.itmo.ru/"
+          },
+          "about": {
+            "title": "аспирантура ИТМО — это",
+            "menu": "Аспирантура ИТМО"
+          },
+          "partners": {
+            "title": "Партнеры программ"
+          },
+          "admission": {
+            "items": {
+              "enterence": "Вступительные испытания",
+              "keyDates": "Основные даты"
+            },
+            "dates": {
+              "description_1": "Прием документов начинается с 1 июня 2025 года и заканчивается 5 августа 2025 года 18:00 по московскому времени.",
+              "description_2": "с 4 по 15 августа - для поступающих на бюджетные места;",
+              "description_3": "с 4 по 18 августа - для поступающих на контрактные места.",
+              "title_1": "Вступительные испытания пройдут в период с 21 июля по 22 августа.",
+              "title_2": "Публикация конкурсных списков – 27 августа.",
+              "title_3": "28 августа не позднее 18:00 (по московскому времени) – окончание приема заявлений о согласии на зачисление.",
+              "title_4": "28 августа не позднее 18:00 (по московскому времени) – окончание приема заявлений о согласии на зачисление для поступающих на контрактные места."
+            }
+          },
+          "leadership": {
+            "title": "Университет технологического лидерства",
+            "item": {
+              "description": {
+                "description_1": "Фотоника, радиофизика и новые материалы",
+                "description_2": "Химия, биология, экология и биотехнологии",
+                "description_3": "Робототехника, приборостроение, оптика и оптотехника",
+                "description_4": "Предпринимательство, маркетинг, цифровая трансформация",
+                "description_5": "Объединяют химию и информатику, искусство и науку, информатику и биологию",
+                "description_6": "Софт, хард, информационная безопасность"
+              },
+              "label": {
+                "label_1": "Физика",
+                "label_2": "Науки о жизни",
+                "label_3": "Инженерия",
+                "label_4": "Экономика и инновации",
+                "label_5": "Междисциплинарные исследования",
+                "label_6": "Информационные технологии"
+              }
+            }
+          },
+          "advantages": {
+            "title": "Преимущества аспирантуры ИТМО",
+            "menu": "Возможности аспирантуры",
+            "item": {
+              "title": {
+                "title_1": "53",
+                "title_2": "120 км²",
+                "title_3": "15"
+              },
+              "subtitle": {
+                "subtitle_1": "научные специальности",
+                "subtitle_2": "общая площадь учебно-лабораторных зданий",
+                "subtitle_3": "диссертационных советов по 33 научным специальностям и собственные ученые стипендии ИТМО"
+              },
+              "description": {
+                "description_1": "Работа над реальными проектами индустриальных партнеров и государственных заказчиков",
+                "description_2": "Возможность трудоустройства в лаборатории университета",
+                "description_3": "Внутренние гранты на исследования"
+              }
+            },
+            "items": {
+              "major": "Обучение по 50+ научным специальностям",
+              "supervisors": "Ведущие ученые  — руководители аспирантов",
+              "degree": "Получение PhD ИТМО",
+              "research": "Гиперпрыжок в большую науку",
+              "job": "Трудоустройство в ведущих компаниях и в проектах ИТМО",
+              "program": "Поддержка для участия в научных программах"
+            }
+          },
+          "studyAbroad": {
+            "title": "Научная деятельность",
+            "subtitle": "Университет ИТМО готов поддержать тебя в стремлении участвовать в онлайн и офлайн образовательных мероприятиях не только в России, но и за рубежом.",
+            "text": "Ты можешь подать заявку на участие в онлайн- и офлайн- конференциях, семинарах, школах, интенсивных неделях, олимпиадах, чемпионатах, научно-исследовательских стажировках и других мероприятиях российских и иностранных вузов, организуемых как вузами-партнёрами, так и другими учебными и научными центрами.",
+            "button": "смотреть на сайте",
+            "link": "https://aspirantura.itmo.ru/",
+            "items": {
+              "supervisors": "Научные руководители",
+              "choose": "Выберите своего научного руководителя",
+              "councils": "Диссертационные советы",
+              "apply": "Информация о приеме заявлений на защиты по специальностям.",
+              "sop": "Совместная образовательная программа",
+              "description": "СОП — совместная образовательная программа, созданная с вузом-партнером с возможностью получения второго диплома."
+            }
+          },
+          "usefulLinks": {
+            "title": "полезные ссылки",
+            "items": {
+              "title_1": "Правила приема",
+              "link_1": "https://aspirantura.itmo.ru/?main=4",
+              "title_2": "Количество мест",
+              "link_2": "https://aspirantura.itmo.ru/?main=6",
+              "title_3": "Прием иностранных граждан",
+              "link_3": "https://aspirantura.itmo.ru/?main=7",
+              "title_4": "Вступительные испытания",
+              "link_4": "https://aspirantura.itmo.ru/?main=8",
+              "title_5": "Программы вступительных испытаний",
+              "link_5": "https://aspirantura.itmo.ru/?main=9",
+              "title_6": "Open Doors: Russian Scholarship Project",
+              "link_6": "https://opendoors.itmo.ru/"
+            }
+          },
+          "scholarship": {
+            "title": {
+              "one": "Стипендии",
+              "two": "Стипендии ITMO.Family"
+            }
+          },
+          "tags": {
+            "title": "Поступление в аспирантуру ИТМО СПб - 2025",
+            "description": "Стать кандидатом наук или PhD. Информация для будущих аспирантов. В наличие бюджетные места."
+          },
+          "banner": {
+            "title": "Ход приемной кампании",
+            "link": "/page/admission_campaign"
+          },
+          "directions": {
+            "items": {
+              "naturalSciences": "Естественные науки",
+              "techSciences": "Технические науки",
+              "agriculturalSciences": "Сельскохозяйственные науки",
+              "humanitarianSciences": "Социальные и гуманитарные науки",
+              "link": "https://aspirantura.itmo.ru/?main=12"
+            }
+          },
+          "listExamination": {
+            "items": {
+              "header_1": "Экзамен по специальности и экзамен по иностранному языку",
+              "text_1": "Вступительные экзамены проходят в дистанционном формате и оцениваются по 5 балльной (специальность) и 3 балльной (иностранный язык) шкале. <br/> Даты проведения и программы вступительных испытаний опубликованы на странице с описанием группы научных специальностей. <br/> Для получения допуска к экзамену необходимо подать документы на поступление через личный кабинет абитуриента",
+              "header_2": "План-проспект будущего диссертационного исследования",
+              "text_2": "Один из вопросов в программе вступительного экзамена по специальности является предполагаемая тема диссертационного исследования. Подготовь краткий план-проспект своей будущей диссертации, включающий описание цели и задач исследования, методологию и основные источники данных и литературы",
+              "header_3": "Рекомендательное письмо от работника ИТМО (научного руководителя)",
+              "text_3": "Выбери научного руководителя из полного перечня в личном кабинете - свяжись с ним через координатора подразделения или напрямую посредством электронной почты и получи рекомендательное письмо, составленное на основе твоего научного резюме",
+              "header_4": "Индивидуальные достижения",
+              "text_4": "Подгрузи в личный кабинет документы, подтверждающие наличие индивидуальных достижений: стажер аспирантуры ИТМО, рекомендательное письмо, научные публикации,гранты, патенты, свидетельства о регистрации программ ЭВМ, дипломы победителя олимпиад и т.д."
+            }
+          }
+        }
+      }
+    },
+    "__N_SSG": true
+  },
+  "page": "/program/[degree]/[slug]",
+  "query": {
+    "degree": "master",
+    "slug": "ai_product"
+  },
+  "buildId": "h-JWWq311ksMLauO6UOtr",
+  "isFallback": false,
+  "gsp": true,
+  "locale": "ru",
+  "locales": [
+    "ru",
+    "en"
+  ],
+  "defaultLocale": "ru",
+  "scriptLoader": []
+}
